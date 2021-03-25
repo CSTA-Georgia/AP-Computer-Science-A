@@ -11,6 +11,7 @@ This repository links to different teaching and learning resources that may be u
 [Alvar Garcia-Fernandez's Java activities](https://github.com/calcpage/AP-Computer-Science-A-with-Java)
 
 [My link to my stuff](https://www.mystuff.com)
+
 ### Example Python
 ``` Python
 def testFunc():
@@ -18,3 +19,6 @@ def testFunc():
 ```
 
 Sample change from Coding Rooms
+
+[Perdue OWL](https://owl.purdue.edu/)
+[Repl.it](https://replit.com/)
