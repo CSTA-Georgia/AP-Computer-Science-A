@@ -9,6 +9,8 @@ This repository links to different teaching and learning resources that may be u
 [Stratford High School CS AP A Labs](https://github.com/StratfordHS-APCSA)
 
 [Alvar Garcia-Fernandez's Java activities](https://github.com/calcpage/AP-Computer-Science-A-with-Java)
+
+[My link to my stuff](https://www.mystuff.com)
 ### Example Python
 ``` Python
 def testFunc():
