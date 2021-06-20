@@ -2,7 +2,7 @@
 Welcome to the Computer Science AP A repository. Here, teachers can share curriculum and resources.
 
 ## Contributing ##
-Please check out the [contributor's Guide](contributing) for adding resources you have created or that you use to this repository
+Please check out the [contributor's Guide](CONTRIBUTING.md) for adding resources you have created or that you use to this repository
 
 ## Full Courses ##
 * [College Board Approved AP CS A Courses](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources/curricula-pedagogical-support)
@@ -12,9 +12,9 @@ Please check out the [contributor's Guide](contributing) for adding resources yo
 * [Code.org AP CS A](https://code.org/educate/csa) (coming soon!)
 
 ## Unit Resources ##
-* [Unit 1 - Primitive Types](Resources/U1 Primitive Types.md)
-* [Unit 2 - Using Objects](Resources/U2 Using Objects.md)
-* [Unit 3 - Boolean Expressions and if Statements](Resources/U3 Boolean Expressions and if Statements.md)
+* [Unit 1 - Primitive Types]("Resources/U1 Primitive Types.md")
+* [Unit 2 - Using Objects]("Resources/U2 Using Objects.md")
+* [Unit 3 - Boolean Expressions and if Statements]("Resources/U3 Boolean Expressions and if Statements.md")
 * [Unit 4 - Iteration](Resources/U4 Iteration.md)
 * [Unit 5 - Writing Classes](Resources/U5 Writing Classes.md)
 * [Unit 6 - Array](Resources/U6 Array.md)
@@ -35,13 +35,12 @@ Please check out the [contributor's Guide](contributing) for adding resources yo
 
 * [Alvar Garcia-Fernandez's Java activities](https://github.com/calcpage/AP-Computer-Science-A-with-Java)
 
+* [Sababu's Stuff](http://www.sababusawesomejava.com)
 ### Example Python
 ``` Python
 def testFunc():
     print("Hello")
 ```
-
-Sample change from Coding Rooms
 
 [Perdue OWL](https://owl.purdue.edu/)
 [Repl.it](https://replit.com/)
