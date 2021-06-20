@@ -16,3 +16,5 @@ All the files in the repository are in a text format known as markdown. Find the
 After you have added your new links, you will need to *commit* your changes. Scroll down to the bottom of the edit page, and add a quick description of your edit before clicking the *Commit Changes* button.
 
 ![Commit changes](./images/commit%20changes.png)
+
+If you want to learn more about markdown myntax, then you can refrence this [Markdown Basic Syntax Guide](https://www.markdownguide.org/basic-syntax/#links).
