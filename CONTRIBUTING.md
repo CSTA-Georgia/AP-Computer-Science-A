@@ -7,3 +7,6 @@ If you have a file or website you like using for this course, send a link over t
 ## Edit files in browser ##
 In order to edit the files on GitHub, you will need to be a member of the CSTA Gerogia GitHub organization. Email either the repository maintainer, kramlich.rob@mail.fcboe.org, or the CSTA project lead, murry.brandon@mail.fcboe.org, to become a member.
 
+Once you're part of the organization, you will have edit rights for all the files in each repository. GitHub makes it easy to edit files directly in browser.
+
+![Edit GitHub in browser](./images/edit%20file%20on%20GitHub.png)
