@@ -7,6 +7,12 @@ If you have a file or website you like using for this course, send a link over t
 ## Edit files in browser ##
 In order to edit the files on GitHub, you will need to be a member of the CSTA Gerogia GitHub organization. Email either the repository maintainer, kramlich.rob@mail.fcboe.org, or the CSTA project lead, murry.brandon@mail.fcboe.org, to become a member.
 
-Once you're part of the organization, you will have edit rights for all the files in each repository. GitHub makes it easy to edit files directly in browser.
+Once you're part of the organization, you will have edit rights for all the files in each repository. GitHub makes it easy to edit files directly in browser. Open the file you want to edit in your browser and look for the "Edit this file" button.
 
 ![Edit GitHub in browser](./images/edit%20file%20on%20GitHub.png)
+
+All the files in the repository are in a text format known as markdown. Find the section in the file where you want to place a link to your resource and create a new line with a markdown formatted link: `[My Resource Name](http://www.myresourceurl.com)`
+
+After you have added your new links, you will need to *commit* your changes. Scroll down to the bottom of the edit page, and add a quick description of your edit before clicking the *Commit Changes* button.
+
+
