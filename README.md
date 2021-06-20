@@ -1,5 +1,5 @@
 # Computer-Science-AP-A
-Welcome to the Computer Science AP A repository. Here, teachers can share curriculum and resources.
+Welcome to the Computer Science AP A repository. Here, teachers can share curriculum and resources. Below you will find links to files within the repository as well as external websites. 
 
 ## Contributing ##
 Please check out the [contributor's Guide](./CONTRIBUTING.md) for adding resources you have created or that you use to this repository
