@@ -1,4 +1,6 @@
 # Unit 1 - Primitive Types
+## Lessons / Notes
+- [Notes - Debbie Klipp](https://drive.google.com/file/d/1zh5qlCWBpR_suGdjOs4a1AGzBHU0qn_A/view?usp=sharing)
 ## Assignments / Projects
 - [MadLibs](https://docs.google.com/document/d/1UmL-ODTsd9DnjblbUg-gC8z0tTJCoYNM-oG1-0zVpNY/edit?usp=sharing)
 ## MCQ / FRQ
