@@ -4,7 +4,7 @@ Welcome to the Computer Science AP A repository. Here, teachers can share curric
 Within the repository you will find most shared resources in the [Resources folder](./Resources/), which is broken down into files for individual Units.
 
 ## Contributing ##
-Please check out the [contributor's Guide](./CONTRIBUTING.md) for adding resources you have created or that you use to this repository
+Please check out the [Contributor's Guide](./CONTRIBUTING.md) for adding resources you have created or that you use to this repository
 
 ## Full Courses ##
 * [College Board Approved AP CS A Courses](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources/curricula-pedagogical-support)
@@ -30,19 +30,8 @@ Please check out the [contributor's Guide](./CONTRIBUTING.md) for adding resourc
 
 ## General Resources ##
 * [Cody Henrichsen's Study Guides on GitHub](https://github.com/CodyHenrichsen-CTEC/Study_Resources/tree/main/Java)
-
 * [Coding Rooms - Great for teaching coding collaboratively](https://codingrooms.com)
-
 * [Stratford High School AP CS A Labs](https://github.com/StratfordHS-APCSA)
-
 * [Alvar Garcia-Fernandez's Java activities](https://github.com/calcpage/AP-Computer-Science-A-with-Java)
-
 * [Sababu's Stuff](http://www.sababusawesomejava.com)
-### Example Python
-``` Python
-def testFunc():
-    print("Hello")
-```
-
-[Perdue OWL](https://owl.purdue.edu/)
-[Repl.it](https://replit.com/)
+* [Repl.it](https://replit.com/)
